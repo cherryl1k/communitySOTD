@@ -1,0 +1,6 @@
+{
+"python.poetryPath": "poetry",
+"editor.tabSize": 8,
+"editor.insertSpaces": true,
+"python.analysis.typeCheckingMode": "off",
+}
