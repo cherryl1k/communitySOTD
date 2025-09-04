@@ -8,7 +8,7 @@ import tweepy
 import subprocess
 from dotenv import load_dotenv
 
-def main() -> None:
+def main():
     workspace_root = Path(__file__).resolve().parent.parent
     dotenv_path = workspace_root / ".env"
 
